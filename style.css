@@ -165,8 +165,7 @@ h1{
 }
 
 @media(max-width: 500px){
-    body{
-        scale: 0.7;
-        transform: translateY(-20%);
+    h1{
+        font-size: 3rem;
     }
 }
